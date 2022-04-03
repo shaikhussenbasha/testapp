@@ -1,0 +1,39 @@
+{"properties":[
+{"id": 0,
+"name": "Property 1",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840719.jpg",
+"place": "As Sulayyil Saudi Arabia",
+"location": "21.147754, 45.256017"
+},
+{"id": 1,
+"name": "Property 2",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840758.jpg",
+"place": "Tanami WA 6770, Australia",
+"location": "-20.939155, 126.994292"
+},
+{"id": 2,
+"name": "Property 3",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840769.jpg",
+"place": "Division No. 22, Unorganized, MB, Canada",
+"location": "54.890803, -96.953718"
+},
+{"id": 3,
+"name": "Property 4",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840773.jpg",
+"place": "Dhar Sehrang, Himachal Pradesh",
+"location": "32.271506, 76.717061"
+},
+{"id": 4,
+"name": "Property 5",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840764.jpg",
+"place": "Toivaalanselkä, Finland",
+"location": "63.403582, 26.967622"
+},
+{"id": 5,
+"name": "Property 6",
+"main_image": "http://jelsat.s3.amazonaws.com/qa/properties/19942/1600840771.jpeg",
+"place": "Togulsky District, Altai Krai, Russia",
+"location": "53.638398, 86.203368"
+}
+]
+}
