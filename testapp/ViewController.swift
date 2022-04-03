@@ -31,7 +31,7 @@ class ViewController:UITableViewController {
                     self.tableView.reloadData()
                 }
         
-        print("Something New app should be suse")
+        print("Some")
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -64,7 +64,7 @@ class ViewController:UITableViewController {
     
     
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 500
+        return 200000
     }
 }
 
