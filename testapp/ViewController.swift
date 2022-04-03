@@ -30,6 +30,8 @@ class ViewController:UITableViewController {
         DispatchQueue.main.async {
                     self.tableView.reloadData()
                 }
+        
+        print("Something New app should be suse")
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -62,7 +64,7 @@ class ViewController:UITableViewController {
     
     
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 300
+        return 500
     }
 }
 
