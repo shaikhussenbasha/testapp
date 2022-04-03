@@ -32,6 +32,7 @@ class ViewController:UITableViewController {
                 }
         
         print("Something New app should be suse")
+        print("somwe unncessary app data")
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
